@@ -2,7 +2,7 @@
 
 ## 23/10/23
 
- 0. Pycharm and venv setup
+ 0. Pycharm and environment setup
     
 ## 24/10/23
 
