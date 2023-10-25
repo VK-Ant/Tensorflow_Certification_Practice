@@ -28,5 +28,6 @@
     - Finetuning
     - scaling up the model
     - prediction
+ 6. Multiclass image classification - Food101.py (All in one)
 
 
