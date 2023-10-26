@@ -30,4 +30,13 @@
     - prediction
  6. Multiclass image classification - Food101.py (All in one)
 
+## 26/10/23
+
+7. Natural language processing
+   - Basics
+   - Model developement and prediction
+8. Time series forecasting
+   - Basics
+   - Building model and prediction
+
 
