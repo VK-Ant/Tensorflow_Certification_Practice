@@ -1,4 +1,4 @@
-# Tensorflow developer certification practice
+# 📢Tensorflow developer certification practice
 
 ## First 2 Month follow this courses:
 
@@ -51,9 +51,11 @@
    - Basics
    - Building model and prediction
  
+## 27/10/23
 
-  
-## Finally accomplished! OCT 2023
+10. Exam Date
+    
+## 🤩👉 Finally accomplished!
 
 ![Screenshot 2023-10-27 215836](https://github.com/VK-Ant/Tensorflow_Certification_Practice/assets/75832198/b6daee02-2bb6-4d18-a0e1-dfab1a80cc46)
 
