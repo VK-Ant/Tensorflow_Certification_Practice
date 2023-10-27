@@ -1,9 +1,12 @@
-# Tensorflow_Practice
+# Tensorflow developer certification practice
 
 ## First 2 Month follow this courses:
 
  1. https://www.udemy.com/course/tensorflow-developer-certificate-machine-learning-zero-to-mastery
  2. https://www.coursera.org/professional-certificates/tensorflow-in-practice
+ 3. Book:
+    - deep learning with python (francois chollet)
+    - Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems (Aurelien Geron) 
 
 ## Final Practice of tensorflow framework with problems:
 
