@@ -1,5 +1,14 @@
 # Tensorflow_Practice
 
+## First 2 Month follow this courses:
+
+ 1. https://www.udemy.com/course/tensorflow-developer-certificate-machine-learning-zero-to-mastery
+ 2. https://www.coursera.org/professional-certificates/tensorflow-in-practice
+
+## Final Practice of tensorflow framework with problems:
+
+ And additional best resource:
+
 ## 23/10/23
 
  0. Pycharm and environment setup
@@ -38,5 +47,10 @@
 8. Time series forecasting
    - Basics
    - Building model and prediction
+ 
 
+  
+## Finally accomplished! OCT 2023
+
+![Screenshot 2023-10-27 215836](https://github.com/VK-Ant/Tensorflow_Certification_Practice/assets/75832198/b6daee02-2bb6-4d18-a0e1-dfab1a80cc46)
 
